@@ -1,0 +1,29 @@
+*{
+   background-color: aliceblue; 
+}
+
+.maindiv{
+    margin-top: 5%;
+}
+
+#head1{
+text-align: center;
+color: rgb(9, 9, 58);
+margin-bottom: 50px;
+}
+
+#d1{
+    display: flex;
+    justify-content: center;
+    padding: 5px;
+}
+
+#n{
+    padding: 7px;
+}
+
+#b1{
+    margin-top: 15px;
+    margin-left: 40%;
+    border-radius: 8px
+}
